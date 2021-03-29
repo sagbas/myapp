@@ -1,8 +1,3 @@
-# Main Header
+# My Heroku Website Deployment
 
-This is some plain text.
-Update text!
-
-## Subheader
-
-Sub header
+Check out my [website](https://sagbas.herokuapp.com)
